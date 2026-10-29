@@ -4,6 +4,8 @@
 
 ---
 
+
+支持与更多：[GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — 我在用的模板与工作簿](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
 ## 中文
 
 Go / Python / Java 技术学习笔记——全部用自己的话重写（clean-room），不复制任何课程或书籍原文，代码均为自己手写。
