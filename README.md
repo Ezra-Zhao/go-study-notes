@@ -45,3 +45,5 @@ Clean-room study notes on Go / Python / Java — rewritten in my own words, no c
   - [Python Fundamentals Notes: Naming, Data Types and Exceptions](python/python-fundamentals-notes.md)
   - [Python Office Automation Notes: Excel / Word / PPT / Email](python/python-office-automation-notes.md)
   - [Python Language Intro Notes: Core Syntax and Ecosystem Roadmap](python/python-language-intro-notes.md)
+
+📣 Telegram 频道：https://t.me/EzraZhao777（各平台的更新都同步到这里）
